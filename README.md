@@ -1,4 +1,4 @@
-# 🌐 Badreddine: Blockchain & Decentralized Systems Engineer
+# 🌐 Baha Badreddine: Blockchain & Decentralized Systems Engineer
 
 ### "The Universe is Written in the Language of Mathematics."
 
