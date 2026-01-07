@@ -45,3 +45,6 @@ My journey into decentralized technology is rooted in a foundational 7.5 years o
 I am currently **Open to Hire** and collaboration on projects that involve deep technical challenges in decentralized systems and AI.
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/badreddine023)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/212666080062)
+[<img src="https://img.shields.io/badge/Telegram-26A8E7?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/freeseek)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:badreddinbaha@gmail.com)
