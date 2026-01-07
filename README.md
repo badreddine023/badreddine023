@@ -2,7 +2,7 @@
 
 ### "The Universe is Written in the Language of Mathematics."
 
-A highly innovative **Engineering Developer** specializing in the convergence of **Blockchain Technology, Artificial Intelligence, and Decentralized Internet Architectures**. My work focuses on creating mathematically coherent, resilient, and self-sovereign systems that push the boundaries of distributed computing.
+A highly innovative **Engineering Developer** with **6+ years of experience** in software development, specializing in the convergence of **Blockchain Technology, Artificial Intelligence, and Decentralized Internet Architectures**. My work focuses on creating mathematically coherent, resilient, and self-sovereign systems that push the boundaries of distributed computing.
 
 ## 💼 Foundational Experience
 
