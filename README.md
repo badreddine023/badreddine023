@@ -4,6 +4,10 @@
 
 A highly innovative **Engineering Developer** specializing in the convergence of **Blockchain Technology, Artificial Intelligence, and Decentralized Internet Architectures**. My work focuses on creating mathematically coherent, resilient, and self-sovereign systems that push the boundaries of distributed computing.
 
+## 💼 Foundational Experience
+
+My journey into decentralized technology is rooted in a foundational 7.5 years of experience as a **Miner** (pre-2021). This role provided deep, practical insight into the physical infrastructure, operational resilience, and energy dynamics of distributed systems, which now informs my work as an Engineering Developer.
+
 ---
 
 ## 🚀 Featured Projects & Innovations
