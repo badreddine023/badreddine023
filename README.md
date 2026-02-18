@@ -26,7 +26,7 @@ Here's a selection of my most impactful projects, showcasing my commitment to in
 
 | Project | Description | Key Technologies | Stars | Forks |
 | :--- | :--- | :--- | :---: | :---: |
-| **[Φ-Chain (Phi-Chain)](https://github.com/badreddine023/phi-chain)** | A novel Layer-1 blockchain architecture based on the **Golden Ratio (Φ)** and **Fibonacci Sequence**, designed for economic symmetry and quantum-classical coherence. | Python, Blockchain, Cryptography | 0 | 0 |
+| **[Φ-Chain (Phi-Chain)](https://github.com/badreddine023/phi-chain)** | A novel Layer-1 blockchain architecture based on the **Golden Ratio (Φ)** and **Fibonacci Sequence**. Recently restructured for better maintainability. | Python, Blockchain, Cryptography | 0 | 0 |
 | **[Lightning Bolt Network](https://github.com/badreddine023/Lightning-Bolt-Network)** | A conceptual framework for a **Unified, Self-Sovereign, and Resilient Information Fabric**, applying the "Lightning Bolt Pattern" to build a new internet layer. | Python, Decentralized Systems, Network Architecture | 0 | 0 |
 | **[AI-Driven Solutions](https://github.com/badreddine023/AI-Driven-Solutions)** | A dedicated exploration into leveraging **Artificial Intelligence** for advanced analytics, optimization, and security within decentralized ecosystems. | Python, AI/ML, Data Science | 0 | 0 |
 | **[CLAUDSH](https://github.com/badreddine023/CLAUDSH)** | An electronic Quran project inspired by **Claude Shannon's Information Theory**, featuring statistical analysis and a focus on information purity. | TypeScript, Information Theory, Web Development | 0 | 0 |
